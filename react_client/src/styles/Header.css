@@ -1,0 +1,25 @@
+.header-text{
+    font-family: 'Roboto Slab', 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: 5vw; 
+    color: white;
+    padding: 30px;
+    margin: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    transition: font-size 0.3s ease; 
+  }
+
+  .header-bg {
+    background-image: url('../images/main-bg.jpg');
+    background-position: center;
+    height: 400px;
+    background-repeat: no-repeat;
+    width: 95%;
+    background-size: cover;
+    color: white;
+    margin: 0 auto;
+    border-radius: 30px;
+    margin-top: 30px;
+  }
+  

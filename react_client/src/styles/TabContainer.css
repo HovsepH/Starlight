@@ -1,0 +1,12 @@
+.tab-contaner{
+    width: 500px;
+    transition: width 0.3s ease;
+}
+
+@media(max-width:700px){
+	.header-bg{
+    padding-top: 60px;
+    margin-top: 60px;
+  }
+}
+
